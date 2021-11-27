@@ -53,28 +53,28 @@
   
 - Masukkan password
 
-  ![gambar14](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/14.png)
+  ![gambar14](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/15.png)
   
 - Klik yes settingan network
 
-  ![gambar15](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/15.png)
+  ![gambar15](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/17.png)
   
 - Klik device – guest
 
-  ![gambar16](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/16.png)
+  ![gambar16](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/18.png)
   
 - Buka fie explorer – C – pilih vbox windowsaddtions
 
-  ![gambar17](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/17.png)
+  ![gambar17](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/19.png)
   
 - Klik next dan install hingga akhir
 
-  ![gambar18](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/18.png)
+  ![gambar18](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/20.png)
   
 - Reboot now
 
-  ![gambar19](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/19.png)
+  ![gambar19](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/21.png)
   
 - Hasilnya
 
-  ![gambar20](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/20.png)
+  ![gambar20](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/22.png)
