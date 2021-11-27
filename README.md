@@ -30,7 +30,7 @@
 
   ![gambar7](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/7.png)
   
-- Piilih custom
+- Pilih custom
 
   ![gambar8](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/8.png)
   
@@ -49,7 +49,7 @@
 
   ![gambar12](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/12.png)
   
-- Klik control+alt+delete unutk buka kunci layar
+- Klik control+alt+delete untuk buka kunci layar
 
   ![gambar13](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/13.png)
   
@@ -65,7 +65,7 @@
 
   ![gambar16](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/18.png)
   
-- Buka fie explorer – C – pilih vbox windowsaddtions
+- Buka file explorer – C – pilih vbox windowsaddtions
 
   ![gambar17](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/19.png)
   
