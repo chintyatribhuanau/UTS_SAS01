@@ -199,6 +199,8 @@
 
    ![gambar1](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/ip/28.png)
    
+   Menjadi
+   
    ![gambar1](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/ip/29.png)
    
 43.	Selesai
