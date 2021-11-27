@@ -3,6 +3,7 @@
 
 
 - Pilih bridge adapter pada network
+ 
  !(/asset/1.png)
 - Masukkan iso file windows server 2022
 - Tunggu hingga load installatiion wizard
