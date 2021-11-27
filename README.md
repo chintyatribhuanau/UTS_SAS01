@@ -3,6 +3,7 @@
 
 
 - Pilih bridge adapter pada network
+ !(/asset/1.png)
 - Masukkan iso file windows server 2022
 - Tunggu hingga load installatiion wizard
 - Pilih time format ke Indonesia lalu klik next
@@ -21,4 +22,3 @@
 - Klik next dan install hingga akhir
 - Reboot now
 - Hasilnya
-! [alt text] (Pictures)
