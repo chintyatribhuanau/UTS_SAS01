@@ -23,6 +23,7 @@
   ![gambar5](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/5.png)
   
 - Pilih pilihan kedua
+
   ![gambar6](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/6.png)
   
 - Centang dan next
@@ -36,6 +37,7 @@
 - Klik next saja dan tunggu proses copy file windows
 
   ![gambar9](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/9.png)
+  
   
   ![gambar10](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/10.png)
   
