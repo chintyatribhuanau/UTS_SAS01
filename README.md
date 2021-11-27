@@ -85,53 +85,122 @@
 
   ![gambar20](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/22.png)
   
-##Set static IP
+## Set static IP
 
 1.	Cek ip di cmd
 
-   ![gambar1](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/IP/1.png)
+   ![gambar1](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/ip/1.png)
    
 3.	Buka server manager – local server – klik ethernet
 
-   ![gambar1](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/IP/1.png)
+   ![gambar2](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/ip/2.png)
    
 5.	Klik kanan – properties
 
-   ![gambar1](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/IP/1.png)
+   ![gambar3](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/ip/3.png)
    
 7.	Pilih Internet Protocol Version 4 lalu klik properties
 
-   ![gambar1](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/IP/1.png)
+   ![gambar4](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/ip/4.png)
    
 9.	Set IP address dan Gateway
 
-   ![gambar1](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/IP/1.png)
+   ![gambar5](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/ip/5.png)
    
 11. 	Hasil
 
-   ![gambar1](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/IP/1.png)
+   ![gambar6](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/ip/6.png)
    
-##Instalasi Active Directory, DNS Servers, NET Framework 3.5 , Promote Server
+## Instalasi Active Directory, DNS Servers, NET Framework 3.5 , Promote Server
 
 1.	Buka server manager, lau klik menu manage dan add roles and features
-2.	Klik skip by default
-3.	Pilih roles based
-4.	Pilih server pool sehinggaserver terplih otomatis
-5.	Pilih active directory domain services
-6.	Muncul pop-up klik add features
-7.	Pilih juga install dns server
-8.	Klik add features
-9.	Klik next, lalu ulangi hal yg sama pada net framework 3.5
-10.	Klik next hingga bagian konfirmasi, klik install
-11.	Tutup jendela instalasi
-12.	Buka server manager – notifkasi – promote this server
-13.	Klik new forest lalu isi domain
-14.	Setting password domain 
-15.	Setelah klik next, net bios akan terisi otomatis lalu klik next
-16.	Pilih lokasi path
-17.	Pada review klik next
-18.	Tunggu cek selesai lalu klik instal
-19.	Setelah selesai, akan sign out dan restart otomatis
-20.	Login Active Directory Domain Controller
-21.	Ubah ke DNS Server IP Address
-22.	Selesai
+   
+   ![gambar1](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/ip/7.png)
+   
+3.	Klik skip by default
+
+   ![gambar1](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/ip/8.png)
+   
+5.	Pilih roles based
+
+   ![gambar1](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/ip/9.png)
+   
+7.	Pilih server pool sehinggaserver terplih otomatis
+
+   ![gambar1](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/ip/10.png)
+   
+9.	Pilih active directory domain services
+
+   ![gambar1](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/ip/11.png)
+   
+11.	Muncul pop-up klik add features
+
+   ![gambar1](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/ip/12.png)
+   
+13.	Pilih juga install dns server
+
+   ![gambar1](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/ip/13.png)
+   
+15.	Klik add features
+
+   ![gambar1](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/ip/14.png)
+   
+17.	Klik next, lalu ulangi hal yg sama pada net framework 3.5
+
+   ![gambar1](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/ip/15.png)
+   
+19.	Klik next hingga bagian konfirmasi, klik install
+
+   ![gambar1](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/ip/16.png)
+   
+   ![gambar1](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/ip/17.png)
+   
+21.	Tutup jendela instalasi
+
+   ![gambar1](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/ip/18.png)
+   
+23.	Buka server manager – notifkasi – promote this server
+
+   ![gambar1](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/ip/19.png)
+   
+25.	Klik new forest lalu isi domain
+
+   ![gambar1](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/ip/20.png)
+   
+27.	Setting password domain 
+
+   ![gambar1](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/ip/21.png)
+   
+29.	Setelah klik next, net bios akan terisi otomatis lalu klik next
+
+   ![gambar1](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/ip/22.png)
+   
+31.	Pilih lokasi path
+
+   ![gambar1](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/ip/23.png)
+   
+33.	Pada review klik next
+
+   ![gambar1](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/ip/24.png)
+   
+35.	Tunggu cek selesai lalu klik instal
+
+   ![gambar1](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/ip/25.png)
+   
+   ![gambar1](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/ip/26.png)
+   
+37.	Setelah selesai, akan sign out dan restart otomatis
+
+   ![gambar1](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/ip/27.png)
+   
+39.	Login Active Directory Domain Controller
+
+   ![gambar1](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/ip/28.png)
+   
+41.	Ubah ke DNS Server IP Address
+
+   ![gambar1](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/ip/29.png)
+   
+   ![gambar1](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/ip/30.png)
+   
+43.	Selesai
