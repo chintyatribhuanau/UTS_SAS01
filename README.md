@@ -4,7 +4,7 @@
 
 - Pilih bridge adapter pada network
  
-  ![gambar1)(https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/1.png)
+  ![gambar1](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/1.png)
   
 - Masukkan iso file windows server 2022
 - Tunggu hingga load installatiion wizard
