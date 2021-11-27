@@ -1,7 +1,9 @@
 # UTS_SAS01
-# Chintya Tribhuana Utami
-# 1202190041
-# IT 02-01
+## Chintya Tribhuana Utami
+## 1202190041
+## IT 02-01
+
+---------------------
 
 ## Install windows server 2022 pada virtual machine 
 
