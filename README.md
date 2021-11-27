@@ -190,17 +190,15 @@
    ![gambar1](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/ip/26.png)
    
 37.	Setelah selesai, akan sign out dan restart otomatis
-
-   ![gambar1](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/ip/27.png)
    
 39.	Login Active Directory Domain Controller
 
-   ![gambar1](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/ip/28.png)
+   ![gambar1](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/ip/27.png)
    
 41.	Ubah ke DNS Server IP Address
 
-   ![gambar1](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/ip/29.png)
+   ![gambar1](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/ip/28.png)
    
-   ![gambar1](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/ip/30.png)
+   ![gambar1](https://github.com/chintyatribhuanau/UTS_SAS01/blob/main/asset/ip/29.png)
    
 43.	Selesai
